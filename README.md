@@ -16,5 +16,4 @@ Run the app with `yarn start` or `npm run start`.
 
 Test the app with `yarn test` or `npm run test`.
 
-## Submitting Your App
-When you have completed your app, please create public repository and send us a link - GitHub, GitLab, BitBucket etc.
+Created by *Alok*
